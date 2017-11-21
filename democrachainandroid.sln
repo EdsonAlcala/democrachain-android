@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "democrachainandroid", "democrachainandroid\democrachainandroid.csproj", "{FCE7C6C4-24D3-41A9-AE04-79B9C1AE51EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE7C6C4-24D3-41A9-AE04-79B9C1AE51EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE7C6C4-24D3-41A9-AE04-79B9C1AE51EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE7C6C4-24D3-41A9-AE04-79B9C1AE51EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE7C6C4-24D3-41A9-AE04-79B9C1AE51EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

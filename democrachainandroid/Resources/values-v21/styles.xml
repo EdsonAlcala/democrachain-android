@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<!-- Inherit from the light Material Theme -->
+	<style name="MyCustomTheme" parent="Theme.AppCompat.Light.NoActionBar">
+		<!-- Customizations go here -->
+		<item name="windowActionBar">false</item>
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowFullscreen">true</item>
+		<item name="android:background">@color/white</item>
+		<item name="android:windowBackground">@color/white</item>
+		<item name="android:colorBackground">@color/white</item>
+	</style>
+</resources>
